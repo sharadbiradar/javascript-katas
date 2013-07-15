@@ -3,7 +3,7 @@
 ## Getting Started
 _(Coming soon)_
 
-## Documentation
+## Katas
 _(Coming soon)_
 
 ## Change Log
