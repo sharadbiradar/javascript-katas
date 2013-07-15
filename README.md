@@ -11,7 +11,7 @@ This project provides a boilerplate and guide for exercising your javascript ski
 7. Make a pull request for someone to review your code.
 
 ## Katas
-- Create an item list CRUD service endpoint using restify, and make it a node module.
+- Create a CRUD service endpoint using restify, and make it a node module. The service should allow CRUD on an item list.
 - Create a jQuery widget that uses the endpoint you created and presents the results in a list.
 - Add a button that adds an item to the list.
 - Add a button that removes an item from the list.
